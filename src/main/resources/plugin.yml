@@ -1,0 +1,5 @@
+name: QuestMenuPlugin
+version: 1.19
+author: gabjuho
+main: com.gabjuho.QuestMenuPlugin.Main
+api-version: 1.19
