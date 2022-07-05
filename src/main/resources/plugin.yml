@@ -3,3 +3,8 @@ version: 1.19
 author: gabjuho
 main: com.gabjuho.QuestMenuPlugin.Main
 api-version: 1.19
+commands:
+  JunaraQuest:
+    description: 퀘스트 conversation 실행시켜주는 명령어
+    usage: /<command>
+    aliases: jq
