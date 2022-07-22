@@ -3,8 +3,16 @@ version: 1.19
 author: gabjuho
 main: com.gabjuho.QuestMenuPlugin.Main
 api-version: 1.19
+depend:
+  [LuckPerms,BetonQuest]
 commands:
   JunaraQuest:
     description: 퀘스트 conversation 실행시켜주는 명령어
     usage: /<command>
     aliases: jq
+  tag:
+    description: 칭호 on/off 명령어
+    usage: /<command>
+  quest:
+    description: 퀘스트 알림이 on/off 명령어
+    usage: /<command>
